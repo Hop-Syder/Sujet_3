@@ -12,8 +12,8 @@ Des initiatives telles que le **laboratoire des langues africaines** ont permis 
 Ce projet se concentrera sur la **collecte de données audio** en langue Fon, l'**adaptation et l'optimisation des APIs ASR**, et l'**évaluation de la précision des transcriptions** obtenues.
 
 ## Objectifs du projet
-1. **Utilisation des APIs ASR** pour transcrire des vidéos YouTube en langue Fon.
-2. **Collecte de données audio** en langue Fon à partir de vidéos YouTube pour tester et améliorer les performances des APIs.
+1. **Collecte de données audio** en langue Fon à partir de vidéos YouTube pour tester et améliorer les performances des APIs.
+2. **Utilisation des APIs ASR** pour transcrire des vidéos YouTube en langue Fon.
 3. **Adaptation et optimisation** des APIs ASR aux spécificités de la langue Fon, en tenant compte des particularités dialectales et phonétiques.
 4. **Évaluation des transcriptions** pour identifier les axes d'amélioration et proposer des solutions aux limitations.
 
